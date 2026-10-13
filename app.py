@@ -2,7 +2,7 @@ from flask import Flask, render_template_string
 
 app = Flask(__name__)
 
-VERSION = "Version 1"
+VERSION = "Version 2"
 
 PAGE = """<!DOCTYPE html>
 <html lang="en">
